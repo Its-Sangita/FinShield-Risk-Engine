@@ -32,15 +32,15 @@ Methodology: Follows Agile development principles for modular and readable code.
 📊 Sample Output
 When the engine runs, it generates a standardized Risk Report:
 
-'''
 --------------------------------------------------
-FINSHIELD: NGO MICRO-LENDING RISK REPORT
+``` FINSHIELD: NGO MICRO-LENDING RISK REPORT ```
 --------------------------------------------------
+```
 Name: Anita Sharma | Score: 100/100 | Status: Approved (Low Risk)
 Name: Rahul Kumar  | Score: 15/100  | Status: Rejected (High Risk)
 Name: Sita Devi    | Score: 50/100  | Status: Manual Review (Medium Risk)
+```
 --------------------------------------------------
-'''
 📂 Installation & Usage
 Clone the repository:
 
