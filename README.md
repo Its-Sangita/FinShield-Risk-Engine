@@ -32,7 +32,6 @@ Methodology: Follows Agile development principles for modular and readable code.
 📊 Sample Output
 When the engine runs, it generates a standardized Risk Report:
 
-Plaintext
 --------------------------------------------------
 FINSHIELD: NGO MICRO-LENDING RISK REPORT
 --------------------------------------------------
